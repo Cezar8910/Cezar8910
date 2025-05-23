@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🦾 Strong mind and strong body<br>📚 I'm majoring in computer engineering in CIN UFPE<br>🎯 My lenguages are JavaScript, TypeScript, C, C++, Python<br>🎲 I work with Amazon AWS and Node</p>
+<p align="left">🦾 Strong mind and strong body<br>📚 I'm majoring in computer engineering in CIN UFPE<br>🎯 My languages are JavaScript, TypeScript, C, C++, Python<br>🎲 I work with Amazon AWS and Node</p>
 
 ###
 
